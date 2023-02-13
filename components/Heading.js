@@ -5,7 +5,7 @@ export function Heading({ id = '', level = 1, children, className }) {
   const router = useRouter();
   const Component = `h${level}`;
 
-  const isDocs = router.pathname.startsWith('/docs');
+  const isDocs = router.pathname.startsWith('/projects') || router.pathname.startsWith('/about');
 
   const link = (
     <Component className={['heading', className].filter(Boolean).join(' ')}>

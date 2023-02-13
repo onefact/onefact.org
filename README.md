@@ -1,28 +1,24 @@
-# Markdoc docs
+# One Fact Foundation
 
-[Markdoc](https://markdoc.dev) is a [Markdown](https://commonmark.org)-based syntax and toolchain for creating custom documentation sites and experiences.
-We designed Markdoc to power [Stripe's public docs](http://stripe.com/docs), our largest and most complex content site.
-
+This code uses [Markdoc](https://markdoc.dev) to render the One Fact Foundation website.
 ## Contributing
 
-Contributions and feedback are welcomed and encouraged. Feel free to open PRs here, or open issues in the [Markdoc core repo](https://github.com/markdoc/markdoc).
+Contributions and feedback are welcomed and encouraged. Feel free to open PRs or issues here to fix typos or suggest changes, or reach our team at [hello@onefact.org](mailto:hello@onefact.org]. 
 
 ## Installation
 
-1. [Fork](https://help.github.com/articles/fork-a-repo) and [clone](https://help.github.com/articles/cloning-a-repository) this repository to your local environment.
+1. Install the dependencies by running `npm install`
 
-2. Create a new branch with `git checkout -b <BRANCH_NAME>`
+2. Start the development server on [http://localhost:3000](http://localhost:3000) by running `npm run dev`
 
-3. Install the dependencies by running `npm install`
+3. Try editing `pages/index.md`
 
-4. Start the development server on [http://localhost:3000](http://localhost:3000) by running `npm run dev`
+## Testing
 
-5. Try editing `pages/index.md`
+Test locally using `npm run dev`.
 
-## Code of conduct
+Use [act](https://github.com/nektos/act) to test GitHub Actions deployment locally.
 
-This project has adopted the Stripe [Code of conduct](https://github.com/markdoc/markdoc/blob/main/.github/CODE_OF_CONDUCT.md).
+## Deployment
 
-## License
-
-This project uses the [MIT license](LICENSE).
+Fork this repo, go to settings > pages > source. In the dropdown, select Github Actions.

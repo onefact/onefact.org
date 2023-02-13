@@ -21,8 +21,8 @@ import 'codemirror/lib/codemirror.css';
 
 import '../public/globals.css';
 
-const TITLE = 'Markdoc';
-const DESCRIPTION = 'A powerful, flexible, Markdown-based authoring framework';
+const TITLE = 'One Fact';
+const DESCRIPTION = 'Our mission is to change global healthcare using open source principles.';
 const MARKDOC = `
 
 
@@ -80,7 +80,7 @@ export default function MyApp(props) {
     ? collectHeadings(pageProps.markdoc.content)
     : [];
 
-  const isDocs = props.router.asPath.startsWith('/docs');
+  const isDocs = props.router.asPath.startsWith('/projects') || props.router.asPath.startsWith('/about');
   const isLandingPage = props.router.pathname === '/';
 
   React.useEffect(() => console.log(MARKDOC), []);
@@ -134,21 +134,23 @@ export default function MyApp(props) {
           name="twitter:image"
           content="https://markdoc.dev/images/share.png"
         />
+        <script defer data-domain="onefact.org" src="https://plausible.io/js/script.js"></script>
       </Head>
       {/* https://webaim.org/techniques/skipnav/ */}
       <a href="#skip-nav" className="skip-nav">
         Skip to content
       </a>
       <TopNav>
-        <Link href="/docs/getting-started">Docs</Link>
-        <Link href="https://github.com/markdoc/markdoc">GitHub</Link>
-        <Link href="https://github.com/markdoc/markdoc/discussions">
+        <Link href="/team">Team</Link>
+        <Link href="https://github.com/onefact/">GitHub</Link>
+        <Link href="https://onefact.zulipchat.com">
           Community
         </Link>
-        <Link href="https://twitter.com/StripeDev">Twitter</Link>
-        <span className="primary no-mobile">
-          <Link href="/sandbox">Try</Link>
-        </span>
+        <Link href="https://twitter.com/onefact_org">Twitter</Link>
+        <Link href="https://www.instagram.com/onefactfoundation/">Instagram</Link>
+        {/* <span className="primary no-mobile">
+          <Link href="/give">Give</Link>
+        </span> */}
       </TopNav>
       <div className="page">
         {isDocs ? <SideNav /> : null}
@@ -160,12 +162,12 @@ export default function MyApp(props) {
       </div>
       <div className="footer-bar">
         <Footer landing={isLandingPage}>
-          <Link href="/docs/getting-started">Docs</Link>
-          <Link href="https://github.com/markdoc/markdoc">GitHub</Link>
-          <Link href="https://github.com/markdoc/markdoc/discussions">
+          <Link href="https://handbook.onefact.org">Handbook</Link>
+          <Link href="https://github.com/onefact">GitHub</Link>
+          <Link href="https://onefact.zulipchat.com">
             Community
           </Link>
-          <Link href="https://twitter.com/StripeDev">Twitter</Link>
+          <Link href="https://twitter.com/onefact_org">Twitter</Link>
         </Footer>
       </div>
       <style jsx global>

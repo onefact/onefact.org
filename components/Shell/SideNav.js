@@ -4,46 +4,22 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Get started',
+    title: 'Vision',
     links: [
-      { href: '/docs/overview', children: 'What is Markdoc?' },
+      { href: '/mission', children: 'What is our mission?' },
       { href: '/docs/getting-started', children: 'Installation' },
       { href: '/docs/faq', children: 'FAQ' },
       { href: '/sandbox', children: 'Try it out' }
     ]
   },
   {
-    title: 'Core concepts',
+    title: 'Projects',
     links: [
-      { href: '/docs/syntax', children: 'Syntax and schema' },
-      { href: '/docs/nodes', children: 'Nodes' },
-      { href: '/docs/tags', children: 'Tags' },
-      { href: '/docs/attributes', children: 'Attributes' },
-      { href: '/docs/variables', children: 'Variables' },
-      { href: '/docs/functions', children: 'Functions' },
-      {
-        href: '/docs/render',
-        children: 'Rendering'
-      },
-      { href: '/docs/validation', children: 'Validation' }
+      { href: '/projects/payless-health', children: 'Payless Health' },
+      { href: '/projects/clinicalbert', children: 'ClinicalBERT' },
+      { href: '/projects/data-thinking', children: 'Data Thinking' },
     ]
   },
-  {
-    title: 'Integration guides',
-    links: [
-      { href: '/docs/examples', children: 'Common examples' },
-      { href: '/docs/examples/html', children: 'Using with HTML' },
-      { href: '/docs/nextjs', children: 'Using with Next.js' },
-      { href: '/docs/examples/react', children: 'Using with React' }
-    ]
-  },
-  {
-    title: 'Advanced concepts',
-    links: [
-      { href: '/docs/frontmatter', children: 'Frontmatter' },
-      { href: '/docs/partials', children: 'Partials' }
-    ]
-  }
 ];
 
 export function SideNav() {

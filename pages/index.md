@@ -1,21 +1,13 @@
 ---
-title: A powerful, flexible, Markdown-based authoring framework
-description: From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
+title: Changing global healthcare using open source principles
+description: The One Fact Foundation is on a mission to change global health care using open source principles.
 ---
 
 {% section .hero %}
 
 {% typewriter /%}
 
-> From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
-
-[View docs](/docs/getting-started) {% .primary %}
-
-{% /section %}
-
-{% section .try .no-mobile %}
-
-{% sandbox height="630px" options={"scrollbarStyle": null} /%}
+> Vision: Convenient, easy, and free healthcare for every person on the planet by 2030. Here's what we are building to make this a reality:
 
 {% /section %}
 
@@ -29,18 +21,19 @@ description: From personal blogs to massive documentation sites, Markdoc is a co
 
   {% item %}
 
-  ### Open source {% .jumbo %}
+  ### Payless Health {% .jumbo %}
 
-  Maintain full control over your code and content. Markdoc is open-source and fully extensible.
+  [Payless.health](https://payless.health) is a search engine and open database of all hospital prices in the United States. We are currently running a [data bounty](https://www.dolthub.com/blog/2022-10-28-announcing-hospital-urls/) and paying up to $10,000 for help collecting this data that is public by federal law.
+
   {% /item %}
 
 - {% ascii "pencil" /%}
 
   {% item %}
 
-  ### Developer & writer friendly {% .jumbo %}
+  ### ClinicalBERT {% .jumbo %}
 
-  Markdoc delivers a powerful, flexible, developer experience (DX) with an equally capable authoring experience (AX).
+  [ClinicalBERT](https://arxiv.org/abs/1904.05342) is the AI algorithm that powers Payless Health and our collaborations with academic medical centers, hospitals, and research consortia.
 
   {% /item %}
 
@@ -48,87 +41,12 @@ description: From personal blogs to massive documentation sites, Markdoc is a co
 
   {% item %}
 
-  ### Adopt anywhere {% .jumbo %}
+  ### Data Thinking {% .jumbo %}
 
-  Use Markdoc to create interactive documentation experiences, static content sites, authoring tooling, and more.
+  [Data Thinking](https://datathinking.org) is a course we're building with our institutional partners to increase equity and access to artificial intelligence, machine learning, and data science education around the world.
 
   {% /item %}
 
 {% /table %}
-
-{% /section %}
-
-{% section .get-started %}
-
-{% side-by-side %}
-
-{% item %}
-
-## Get started quickly {% .jumbo %}
-
-[Markdoc core](https://github.com/markdoc/markdoc) is a lightweight package containing everything you need to get started. If you want to get going even faster, check out our [Next.js plugin](https://github.com/markdoc/next.js) and deploy a Markdoc documentation site with zero boilerplate.
-
-[Explore documentation](/docs/getting-started) {% .primary %}
-
-[Live edit]() {% .primary %} {% .live-edit %}
-
-{% /item %}
-
-```shell
-npm install @markdoc/markdoc
-```
-
-```js
-import Markdoc from '@markdoc/markdoc';
-
-const doc = `
-# Hello world.
-> My first Markdoc page
-`;
-
-const ast = Markdoc.parse(doc);
-
-const content = Markdoc.transform(ast);
-
-const html = Markdoc.renderers.html(content);
-```
-
-{% /side-by-side %}
-
-{% /section %}
-
-{% section .by-stripe %}
-
-{% side-by-side %}
-
-### Markdoc powers Stripe documentation {% .jumbo %}
-
-Stripe created Markdoc to power its largest and [most detailed content site](https://stripe.com/docs). Since then, we have adopted it across the company, writing hundreds of thousands of lines of Markdoc to create thousands of pages of expressive, custom documentation.
-
-{% /side-by-side %}
-
----
-
-{% features %}
-
-- **Familiar syntax**
-
-  Markdoc is a syntactic extension of [Markdown](https://commonmark.org/), so you can keep using all the syntax and tooling you are used to.
-
-  [Learn the syntax](/docs/syntax) {% .primary %}
-
-- **Easily extensible**
-
-  Markdoc lets you customize all aspects of the system, from [custom tags](/docs/tags) and [nodes](/docs/nodes) to entirely [new renderers](/docs/render).
-
-  [Learn more](/docs/render) {% .primary %}
-
-- **Built-in validation**
-
-  You can add custom validation throughout your content system, ensuring nothing breaks and your content remains consistent.
-
-  [Learn more](/docs/validation) {% .primary %}
-
-{% /features %}
 
 {% /section %}
