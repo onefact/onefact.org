@@ -134,7 +134,7 @@ export default function MyApp(props) {
           name="twitter:image"
           content="https://markdoc.dev/images/share.png"
         />
-        <script defer data-domain="onefact.org" src="https://plausible.io/js/script.js"></script>
+        <script defer data-domain="datathinking.org" src="https://plausible.io/js/script.js"></script>
       </Head>
       {/* https://webaim.org/techniques/skipnav/ */}
       <a href="#skip-nav" className="skip-nav">
