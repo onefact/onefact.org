@@ -16,4 +16,4 @@ assignees: ''
 - [ ] Sign into Visual Studio Code to activate the GitHub Student Developer Pack
 - [ ] Sign up for datathinking.zulipchat.com
 - [ ] Post a message in the General stream topic called "intros"
-- [ ] Comment on this issue if you run into any trouble, have any doubts or questions. Please include which task you were trying to complete, what you tried, and what part of it is not working (include screenshots, screen recordings if needed)
+- [ ] Comment on this issue or ask on the Zulip chat if you run into any trouble, have any doubts or questions. Please include which task you were trying to complete, what you tried (including asking ChatGPT https://chat.openai.com/chat for help and the prompt you used, and what part of it is not working - include screenshots, screen recordings if needed)
