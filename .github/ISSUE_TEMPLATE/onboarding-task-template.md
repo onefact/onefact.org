@@ -2,18 +2,19 @@
 name: Onboarding task template
 about: The purpose of this template is to assign learners onboarding tasks to complete
   before the first class meets.
-title: "[ONBOARD] learner-name tasks to get started"
+title: "[onboarding] tasks to try to complete before the first lecture on Monday, February 20, 2023"
 labels: onboarding
 assignees: ''
 
 ---
 
-- [ ] Read datathinking.org/university-of-tartu/getting-started
-- [ ] Install a package manager (Chocolatey for Windows or Homebrew for Mac)
-- [ ] Install Visual Studio Code
+- [ ] Sign into ChatGPT https://chat.openai.com/chat
+- [ ] Ask ChatGPT for help completing this checklist and copy and paste it, or to walk you through it
+- [ ] Install a package manager (Chocolatey for Windows or Homebrew for Mac), and use either to install Anaconda
+- [ ] Install Visual Studio Code using the package manager
 - [ ] Activate GitHub Student Developer Pack: https://education.github.com/pack
 - [ ] Install the Copilot extension for Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=GitHub.copilot 
 - [ ] Sign into Visual Studio Code to activate the GitHub Student Developer Pack
-- [ ] Sign up for datathinking.zulipchat.com
-- [ ] Post a message in the General stream topic called "intros"
-- [ ] Comment on this issue or ask on the Zulip chat if you run into any trouble, have any doubts or questions. Please include which task you were trying to complete, what you tried (including asking ChatGPT https://chat.openai.com/chat for help and the prompt you used, and what part of it is not working - include screenshots, screen recordings if needed)
+- [ ] Sign up for datathinking.zulipchat.com if you want to contribute to the data we will analyze together with your messages from our group chat
+- [ ] Post a message in the General stream topic called "intros" saying what you hope to get out of the course, and what experience you have with data thinking, AI & machine learning, statistics, mathematics, and computer science and programming. If you are new to all of this, that's great too! We just want to get a sense of where everyone is starting from :)
+- [ ] Comment on this issue or ask on the Zulip chat if you run into any trouble, have any doubts or questions. Please include which task you were trying to complete, what you tried, and don't worry about asking ChatGPT too many questions or for help as much as possible!
