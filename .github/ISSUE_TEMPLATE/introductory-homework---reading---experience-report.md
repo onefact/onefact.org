@@ -35,5 +35,6 @@ assignees: ''
 # Programming & Infrastructure
 - [ ] Create a GitHub Codespace using the data thinking template [here](https://github.com/codespaces/new?machine=standardLinux32gb&repo=603826598&devcontainer_path=.devcontainer%2Fdevcontainer.json) (from https://github.com/onefact/datathinking.org-codespace)
 - [ ] Send a screenshot to Zulip of a plot you made in the GitHub codespace (of any dataset or data you generated as in the live coding demo from the first lecture; ask for help if this is unclear)
+- [ ] Sign up for Lex - message Jaan on Zulip for an invite code
 - [ ] Sign up for Figma as a student (https://www.figma.com/education/students/)
 - [ ] Install `copyq` on Windows Powershell or Linux using Chocolatey, or install Maccy on Mac using Homebrew. This will save you a lot of time throughout the class as you copy and paste things from ChatGPT!
