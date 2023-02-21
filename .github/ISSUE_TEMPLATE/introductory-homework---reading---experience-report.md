@@ -30,6 +30,7 @@ assignees: ''
 - [ ] Read https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/ to understand how ChatGPT and CoPilot can help you learn data thinking, programming, and statistics skills
 - [ ] Read http://web.archive.org/web/20170208134519/http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar -- especially the "Once upon a time" story telling framework Pixar used for its movies.
 - [ ] Read https://www.newyorker.com/magazine/2023/02/13/the-dubious-rise-of-impostor-syndrome to help understand concepts that can increase our psychological safety and trust in class and how asking ChatGPT can help reduce our fear of asking for help when stuck.
+- [ ] Read https://jaan.io/my-friend-radicalized-this-made-me-rethink-how-i-build-AI/ to learn about my journey in understanding the incentives that can affect our thoughts, feelings, and actions in society and the incentives that affect how AI such as ChatGPT is built.
 
 # Programming & Infrastructure
 - [ ] Create a GitHub Codespace using the data thinking template [here](https://github.com/codespaces/new?machine=standardLinux32gb&repo=603826598&devcontainer_path=.devcontainer%2Fdevcontainer.json) (from https://github.com/onefact/datathinking.org-codespace)
