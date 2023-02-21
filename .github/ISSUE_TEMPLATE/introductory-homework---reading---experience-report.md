@@ -19,7 +19,8 @@ assignees: ''
   - read the below articles for ideas
 
 # Doing
-- [ ] Review the first lecture: https://panopto.ut.ee/Panopto/Pages/Sessions/List.aspx?folderID=43bb180c-79a6-4324-b055-afa400ecd1a0 - ask on Zulip if you can't access this
+- [ ] Review the first class: https://panopto.ut.ee/Panopto/Pages/Sessions/List.aspx?folderID=43bb180c-79a6-4324-b055-afa400ecd1a0 - ask on Zulip if you can't access this
+- [ ] Review the Figma whiteboard from the first class: https://www.figma.com/file/SsoNLhaZwnSGkADd4eS0D8/230220-introduction?node-id=0%3A1&t=jR2hISrDchAPapYR-1
 - [ ] Create a LinkedIn profile. (If you are not comfortable using your real name, feel free to use a fake name + email)
 - [ ] Post your LinkedIn profile on Zulip -- Zulip is open source and enables us to analyze our chat messages with natural language processing tools such as ChatGPT, which we will do later in the course!
 - [ ] Read https://matt.might.net/articles/how-to-email/ to understand principles of communication over email or Zulip
