@@ -37,6 +37,7 @@ See an example of such critiques [here](https://twitter.com/emilymbender/status/
 
 # Do
 - [ ] Watch the lecture recording from March 2, 2023
+- [ ] Review the whiteboard from class: https://www.figma.com/file/5o0fDhQuOBnKAd3gyFi6Ty/230302-logistic-regression-and-version-control-and-latex
 - [ ] Review the GitHub codespace repository: https://github.com/onefact/datathinking.org-codespace/ (e.g. try running it using the same `environment.yml` file we created!)
 - [ ] Review the Jupyter notebook from lecture and rerun it in your codespace: https://github.com/onefact/datathinking.org-codespace/blob/main/notebooks/230302-logistic-regression-math-equation-and-code.ipynb
 - [ ] use linear regression to analyze the data you visualized in the first homework. You will need to follow the same steps (e.g. ask ChatGPT, write the equation, translate the equation to code, run and debug the code -- all vital data thinking skills :).
