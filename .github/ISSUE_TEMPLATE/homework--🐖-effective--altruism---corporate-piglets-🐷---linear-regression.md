@@ -4,7 +4,7 @@ name: "Homework: \U0001F416 Effective \"Altruism\", Corporate Piglets \U0001F437
 about: This homework supports the "do" aspect of the feel-think-ask-do data thinking
   framework. You will create a linear regression model and apply it to the data you
   visualized in the previous homework.
-title: "[homework]"
+title: "[homework] 🐖 EA, Corporate Piglets 🐷 & Linear Regression "
 labels: homework
 assignees: ''
 
