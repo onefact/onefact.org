@@ -146,7 +146,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- 
+- ![michele](/images/michele.jpg)
 - `Michele Tadiello`
 - [michele@onefact.org](mailto:michele@onefact.org)
 - [LinkedIn](https://www.linkedin.com/in/michele-tadiello/)  
