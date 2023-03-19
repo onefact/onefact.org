@@ -1,10 +1,10 @@
 ## Data Thinking Website
 
-![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=onefact-org) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=datathinking-org) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 This code uses [Markdoc](https://markdoc.dev) as a backbone to render the One Fact Foundation website, alongside the rest of our web properties.
 
-### Deploy to Vercel to build your own website using our code!
+### Are you an educator or need to run a Data Thinking workshop? Deploy to Vercel to build your own website using our code!
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonefact%2Fonefact.org&demo-title=One%20Fact%20Foundation%20Website&demo-url=onefact.org&demo-image=https%3A%2F%2Fwww.onefact.org%2Fimages%2Fshare.png&install-command=npm%20install%20--legacy-peer-deps) 
 
