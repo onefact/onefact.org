@@ -162,7 +162,7 @@ export default function MyApp(props) {
       </div>
       <div className="footer-bar">
         <Footer landing={isLandingPage}>
-          <Link href="https://help.datathinking.org">Help</Link>
+          {/* <Link href="https://help.datathinking.org">Help</Link> */}
           <Link href="https://github.com/onefact/datathinking.org">GitHub</Link>
           <Link href="https://datathinking.zulipchat.com">
             Community
