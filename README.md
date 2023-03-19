@@ -6,7 +6,9 @@ This code uses [Markdoc](https://markdoc.dev) as a backbone to render the One Fa
 
 ### Are you an educator or need to run a Data Thinking workshop? Deploy to Vercel to build your own website using our code!
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonefact%2Fonefact.org&demo-title=One%20Fact%20Foundation%20Website&demo-url=onefact.org&demo-image=https%3A%2F%2Fwww.onefact.org%2Fimages%2Fshare.png&install-command=npm%20install%20--legacy-peer-deps) 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonefact%2Fdatathinking.org%2F&demo-title=Data%20Thinking%20Website&demo-description=Static%2C%20interactive%2C%20scalable%2C%20open%20source%20course%20content&demo-url=https%3A%2F%2Fdatathinking.org) (created using [this link](https://vercel.com/docs/deploy-button#generate-your-own))
+
+Email us at hello@onefact.org if you have any issues using this for your course.
 
 ### Deploy using GitHub Pages
 
