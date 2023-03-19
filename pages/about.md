@@ -1,4 +1,4 @@
 ---
 title: About
-description: The One Fact Foundation is a 501c3 nonprofit changing health care and education using open source principles.
+description: Data Thinking is a course to help feel, do, ask, and think things about data to make sense of the world and make better decisions.
 ---
