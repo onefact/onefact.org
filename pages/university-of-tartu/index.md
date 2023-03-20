@@ -27,12 +27,21 @@ https://panopto.ut.ee/Panopto/Pages/Sessions/List.aspx?folderID=43bb180c-79a6-43
 
 ## March 13, 2023 lecture
 
-### Notebook
+### Jupyter Notebook
 
+https://github.com/onefact/datathinking.org-codespace/blob/main/notebooks/230313-embeddings-volume-2.ipynb
+
+### Notes
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FkV0WZUN4ShlFOvXP4jBvnl%2F230313-embeddings%3Fnode-id%3D0%253A1%26t%3DPCmvkxPBnCzhJ1Pn-1"
+  width="80%"
+  title="Tasks" 
+/%}
 
 ## March 16, 2023 lecture
 
-### Notebook
+### Jupyter Notebook
 
 https://github.com/onefact/datathinking.org-codespace/blob/main/notebooks/230316-embeddings-text-data-like-chat-logs-and-networks.ipynb
 
