@@ -18,8 +18,9 @@ assignees: ''
 - [ ] Make a copy of the Overleaf template: https://www.overleaf.com/read/ghpyzqwqwxpv (need to create an account and/or sign in if this is your first time using Overleaf). To make a copy, open the project after signing in using this link, and click on `Menu`, then `Copy Project`:
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/5317244/226241154-a96f364e-6892-4229-b363-3a507b5dc2f2.png">
 
-- [ ] In Overleaf, edit the template and figure out how to include a PDF figure in the report, alongside a brief description (a few sentences or paragraphs is fine!) of each of the analyses you performed, and the math equation for the linear regression, logistic regression, and embedding you used.
+- [ ] In Overleaf, edit the template and figure out how to include a PDF figure in the report, alongside a brief description (a few sentences or paragraphs is fine!) of each of the analyses you performed, why you chose them, and the math equation for the linear regression, logistic regression, and embedding you used.
 - [ ] Add the PDF of the report to this issue as a comment.
+- [ ] Send a message on Zulip with a link to this comment, alongside the image representing your favorite visualization
 
 ## Reviewing
 - [ ] Review collaborative whiteboards from past classes: listed at https://www.datathinking.org/university-of-tartu
