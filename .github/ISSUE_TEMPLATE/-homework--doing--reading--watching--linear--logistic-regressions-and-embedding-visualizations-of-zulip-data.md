@@ -23,6 +23,7 @@ assignees: ''
 - [ ] Send a message on Zulip with a link to this comment, alongside the image representing your favorite visualization
 
 ## Reviewing
+- [ ] Review how Jaan got unstuck in the lecture recordings at https://panopto.ut.ee/Panopto/Pages/Sessions/List.aspx?folderID=43bb180c-79a6-4324-b055-afa400ecd1a0
 - [ ] Review collaborative whiteboards from past classes: listed at https://www.datathinking.org/university-of-tartu
 - [ ] Review Jupyter notebooks from past classes: 
     - https://github.com/onefact/datathinking.org-codespace/blob/main/notebooks/230313-embeddings-volume-2.ipynb
