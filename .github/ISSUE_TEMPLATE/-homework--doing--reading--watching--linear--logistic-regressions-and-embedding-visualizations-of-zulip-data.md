@@ -12,10 +12,14 @@ assignees: ''
 ## Doing
 - [ ] Clean Data Thinking Zulip chat data, located at https://github.com/onefact/datathinking.org-codespace/blob/main/data/datathinking.zulipchat.com/raw/messages-000001.json - put it in a `polars` dataframe and compute summary statistics of the dataset
 - [ ] Analyze this Zulip chat data using logistic regression, linear regression, and embeddings with the tools we have learned in the lectures (don't forget to ask ChatGPT, Claude, Lex, GPT-4 for help as much as you need, and ask for help on the Data Thinking Zulip chat :)
-- [ ] Create a visualization of either logistic or linear regression, or an embeddings analysis of the Data Thinking Zulip chat data
+- [ ] Create a visualization of logistic regression of the Data Thinking Zulip chat data
+- [ ] Create a visualization of linear regression applied to the Data Thinking Zulip chat data 
+- [ ] Create a visualization of embeddings using the Data Thinking Zulip Chat data
 - [ ] Make a copy of the Overleaf template: https://www.overleaf.com/read/ghpyzqwqwxpv (need to create an account and/or sign in if this is your first time using Overleaf). To make a copy, open the project after signing in using this link, and click on `Menu`, then `Copy Project`:
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/5317244/226241154-a96f364e-6892-4229-b363-3a507b5dc2f2.png">
-- [ ] Add a PDF to this issue as a comment, that contains the visualization you made of the Zulip chat data.
+
+- [ ] In Overleaf, edit the template and figure out how to include a PDF figure in the report, alongside a brief description (a few sentences or paragraphs is fine!) of each of the analyses you performed, and the math equation for the linear regression, logistic regression, and embedding you used.
+- [ ] Add the PDF of the report to this issue as a comment.
 
 ## Reviewing
 - [ ] Review collaborative whiteboards from past classes: listed at https://www.datathinking.org/university-of-tartu
