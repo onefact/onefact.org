@@ -4,22 +4,35 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Vision',
+    title: 'Introduction',
     links: [
-      { href: '/mission', children: 'What is our mission?' },
-      { href: '/docs/getting-started', children: 'Installation' },
-      { href: '/docs/faq', children: 'FAQ' },
-      { href: '/sandbox', children: 'Try it out' }
+      { href: '/university-of-tartu', children: 'Home' },
+      { href: '/introduction', children: 'Introduction' },
+      { href: '/syllabus', children: 'Syllabus' },
+      { href: '/roadmap-to-chatgpt', children: 'Roadmap' }
     ]
   },
   {
-    title: 'Projects',
+    title: 'Technical Concpets',
     links: [
-      { href: '/projects/payless-health', children: 'Payless Health' },
-      { href: '/projects/clinicalbert', children: 'ClinicalBERT' },
-      { href: '/projects/data-thinking', children: 'Data Thinking' },
+      { href: '/logistic-regression', children: 'Logistic Regression' },
+      { href: '/embeddings', children: 'Embeddings' }
     ]
   },
+  // {
+  //   title: 'Reading',
+  //   links: [
+  //     { href: '/placeholder', children: 'Logistic Regression' },
+  //     { href: '/placeholder', children: 'Embeddings' }
+  //   ]
+  // },
+  // {
+  //   title: 'Watching',
+  //   links: [
+  //     { href: '/logistic-regression', children: 'Logistic Regression' },
+  //     { href: '/embeddings', children: 'Embeddings' }
+  //   ]
+  // },
 ];
 
 export function SideNav() {
