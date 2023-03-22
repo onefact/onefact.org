@@ -23,7 +23,7 @@ description: Using empathy, with design thinking as a model and metaphor, we ena
 
   {% item %}
 
-  ### Empathy {% .jumbo %}
+  ### Safety {% .jumbo %}
 
   Psychological safety of the learner is paramount. To undergo the greatest behavior change during learning, we need to feel safe to take risks and receive rapid feedback on the actions we take.
 
@@ -33,7 +33,7 @@ description: Using empathy, with design thinking as a model and metaphor, we ena
 
   {% item %}
 
-  ### Clarity {% .jumbo %}
+  ### Design {% .jumbo %}
 
   "Data thinking" is a pun on "design thinking'. Data thinking is a type of design mind-set.
 
@@ -43,7 +43,7 @@ description: Using empathy, with design thinking as a model and metaphor, we ena
 
   {% item %}
 
-  ### Impact {% .jumbo %}
+  ### Behavior Change {% .jumbo %}
 
   Data Thinking is a course we're building with our institutional partners to increase equity and access to artificial intelligence, machine learning, and data science education around the world.
 
