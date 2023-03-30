@@ -8,6 +8,9 @@ description: Using empathy, with design thinking as a model and metaphor, we ena
 # Course webpage
 https://courses.cs.ut.ee/2023/chatGPT/spring 
 
+# Registration at University of Tartu
+https://ois2.ut.ee/#/courses/LTAT.02.027/version/b9298b84-78e3-9ae5-bedd-1248b2c7f402/details
+
 # Course calendar
 https://calendar.google.com/calendar/u/0?cid=Y18zMjg1NTNjMWI5NTI4ZGUwZGNlMDZjZmZiODNhNTJkZmEwYWU0ODY0YmFkYmNmN2Q1MjdmODAyZDhkZmEzZmRlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 
 
