@@ -10,3 +10,4 @@ description: First steps
 - [ ] Commit this change in the `Source Control` panel of Visual Studio code
 - [ ] Push this change to GitHub to a remote repository
 - [ ] Send the link to this remote repository to someone so you can be proud of what you did!
+- [ ] Learn to browse the file system locally or on github
