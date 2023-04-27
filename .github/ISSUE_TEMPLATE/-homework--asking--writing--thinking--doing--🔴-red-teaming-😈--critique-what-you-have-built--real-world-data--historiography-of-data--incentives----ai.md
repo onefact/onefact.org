@@ -50,7 +50,7 @@ Pro tip: try using an app on your phone or computer to read aloud to you at 1.5x
 - [ ] Use `duckdb` to load the Zulip data into a SQL database, and use `altair` to visualize the data, following https://github.com/onefact/datathinking.org-codespace/blob/main/notebooks/in-class-notebooks/230420-debugging-duckdb-altair-falcon-3-1-1-service-requests.ipynb (run this notebook with this data: https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9 - and try changing the data source to be the Zulip data and post a visualization of the chat data on Zulip)
 
 # Thinking
-- [ ] Propose a research question that you will aim to answer the upcoming final homework (and cross-post it on Zulip for feedback); include a rationale for why this topic matters to you, and decisions you need to make, and a clear articulation of the stakes. This can be a paragraph or several. Perhaps start with your experience report from the first homework.
+- [ ] In a comment on this issue, propose a research question that you will aim to answer the upcoming final homework (and cross-post it on Zulip for feedback); include a rationale for why this topic matters to you, and decisions you need to make, and a clear articulation of the stakes. This can be a paragraph or several. Perhaps start with your experience report from the first homework.
 
 # Listening
 - [ ] Listen to this podcast with Emily Bender: https://open.spotify.com/episode/2ILGlkAXAt4xfuKHwIV2on
