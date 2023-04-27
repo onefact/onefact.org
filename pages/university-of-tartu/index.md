@@ -5,7 +5,9 @@ description: Using empathy, with design thinking as a model and metaphor, we ena
 
 {% section .value-props %}
 
-This pilot course focuses on the `feel`, `ask`, `do`, `think` workflow to guide practitioners of data thinking from data to decisions. 
+![logo](/images/share.jpg)
+
+**This pilot course focuses on the `feel`, `ask`, `do`, `think` workflow to guide practitioners of data thinking from data to decisions.**
 
 Premise:
 
@@ -79,13 +81,11 @@ https://panopto.ut.ee/Panopto/Pages/Sessions/List.aspx?folderID=43bb180c-79a6-43
 
 ## 🎭 February 20, 2023 Lecture
 
-🧘  `Introduction` `Emotions` `Acceptance and Commitment Therapy` `Exposure Therapy` `Choosing a Research Topic`
+🧘  `Introduction` `Learning to Suck` `Emotions` `Acceptance and Commitment Therapy` `Exposure Therapy` `Choosing a Research Topic`
 
 🧐💰 `Data Journey: Severe Acute Respiratory Syndrome Coronavirus-2` `Data Journey: J&J, Asbestos, & Talcum Powder` `Data Journey: ChatGPT & Incentives`
 
 📈 `Life Expectancy and Carbon Emissions`
-
-
 
 **📓 Notebook**
 
@@ -129,6 +129,7 @@ https://panopto.ut.ee/Panopto/Pages/Sessions/List.aspx?folderID=43bb180c-79a6-43
 
 ## 🎭 March 2, 2023 Lecture
 
+🧘 
 `Logistic Regression` `Version Control`
 
 **📓 Notebook**
