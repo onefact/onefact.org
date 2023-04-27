@@ -1,6 +1,6 @@
 ---
 name: "[homework: doing, reading, watching] Linear, logistic regressions and embedding
-  visualizations of Zulip 💬 chat data"
+  visualizations of Zulip \U0001F4AC chat data"
 about: Homework
 title: "[homework: doing, reading, watching] Linear, logistic regressions and embedding
   visualizations of Zulip data"
