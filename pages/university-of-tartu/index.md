@@ -42,7 +42,7 @@ Such exposure to difficult, confusing contexts is vital for helping a learner tr
 
 Based on open-ended elicitation of learner feedback, Claude (a large language model built by Anthropic, whose Series B round was led by Sam Bankman-Fried) summarized the following operational definition:
 
-
+```
 > Based on these learner definitions, here is an operational definition of "data thinking" for our class:
 > 
 > Data thinking is the mental process of analyzing, interpreting, and deriving meaning from data in order to understand and make decisions about the world. It involves:
@@ -53,6 +53,7 @@ Based on open-ended elicitation of learner feedback, Claude (a large language mo
 > * Recognizing that data and thinking are interconnected and co-constructed. Data both shapes and is shaped by how we think about and make sense of the world.
 > * Continually optimizing and reconsidering one's mental models in light of new data. Data thinking is an iterative process of reframing one's understanding.
 > * In summary, data thinking is the active, inquisitive, and meaning-making cognitive process of understanding the world through data. It is a skill that can be developed and honed over time with practice.
+```
 
 # 🌐 Course Webpage
 https://courses.cs.ut.ee/2023/chatGPT/spring 
