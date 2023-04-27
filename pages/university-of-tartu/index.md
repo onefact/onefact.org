@@ -5,6 +5,8 @@ description: Using empathy, with design thinking as a model and metaphor, we ena
 
 ![logo](/images/share.png)
 
+[Edit or improve this page](https://github.com/onefact/datathinking.org/edit/main/pages/university-of-tartu/index.md)
+
 **This pilot course focuses on the `feel`, `ask`, `do`, `think` workflow to guide practitioners of data thinking from data to decisions.**
 
 Premise:
@@ -55,6 +57,8 @@ Based on open-ended elicitation of learner feedback, Claude (a large language mo
 > * In summary, data thinking is the active, inquisitive, and meaning-making cognitive process of understanding the world through data. It is a skill that can be developed and honed over time with practice.
 ```
 
+Throughout the course, learners create, collect, analyze, visualize, and interpret their experiences and data, and learn state-of-the-art artificial intelligence methods to automate these processes. For example, `ChatGPT`, `GPT-4`, `Claude`, `Bing Chat`, and `Bard` are all used to help learners get unstuck faster than one instructors' limited resources are able to support.
+
 # 🌐 Course Webpage
 https://courses.cs.ut.ee/2023/chatGPT/spring 
 
@@ -80,7 +84,7 @@ https://panopto.ut.ee/Panopto/Pages/Sessions/List.aspx?folderID=43bb180c-79a6-43
 
 ## 🎭 February 20, 2023 Lecture
 
-🧘  `Introduction` `Learning to Suck` `Emotions` `Acceptance and Commitment Therapy` `Exposure Therapy` `Choosing a Research Topic`
+🧘  `Introduction` `Learning to Suck` `Emotions` `Acceptance and Commitment Therapy` `Exposure Therapy` `Choosing a Research Topic` `Experience Reports`
 
 🧐💰 `Data Journey: Severe Acute Respiratory Syndrome Coronavirus-2` `Data Journey: J&J, Asbestos, & Talcum Powder` `Data Journey: ChatGPT & Incentives`
 
@@ -102,6 +106,8 @@ https://panopto.ut.ee/Panopto/Pages/Sessions/List.aspx?folderID=43bb180c-79a6-43
 
 💻 `What Happens When I Press This Button?`
 
+📈
+
 **📓 Notebook**
 
 **📝  Whiteboard**
@@ -116,7 +122,13 @@ https://panopto.ut.ee/Panopto/Pages/Sessions/List.aspx?folderID=43bb180c-79a6-43
 
 🧘 `What to Do if New Words Are Confusing`
 
-💻 `Roadmap to ChatGPT` `Mathematics` `Linear Algebra` `Programming`
+💻 `Programming`
+
+📐 `Linear Algebra` `Calculus` `Statistics` `Probability`
+
+💄 `ChatGPT` `Transformers` 
+
+📈 
 
 **📝  Whiteboard**
 
@@ -128,8 +140,13 @@ https://panopto.ut.ee/Panopto/Pages/Sessions/List.aspx?folderID=43bb180c-79a6-43
 
 ## 🎭 March 2, 2023 Lecture
 
-🧘 
-`Logistic Regression` `Version Control`
+🧘 `Feel, Ask, Do, Think` `Math Before Code`
+
+💻 `Version Control` `Typesetting Mathematics and Code`
+
+💄 `Logistic Regression`
+
+📈
 
 **📓 Notebook**
 
@@ -143,7 +160,11 @@ https://panopto.ut.ee/Panopto/Pages/Sessions/List.aspx?folderID=43bb180c-79a6-43
 
 ## 🎭 March 6, 2023 Lecture
 
-`Word Embeddings`
+🧘 `What Happens When I Click This Button?` `Lesson Planning`
+
+💄 `Embeddings` `Transformers`
+
+📈 
 
 **📓 Notebook**
 
@@ -157,7 +178,13 @@ https://panopto.ut.ee/Panopto/Pages/Sessions/List.aspx?folderID=43bb180c-79a6-43
 
 ## 🎭 March 13, 2023 lecture
 
-`Embeddings`
+🧘 `Informed Consent` `Jailbreaking` `Mourning the Loss of AI` `Prompt: Cognitive Behavioral Therapy for Impostor Syndrome` `🦺 Jailbreak Prompt: Amplifying Negative Thinking`
+
+💬 `Prompts for Generating Markdown Tables` 
+
+💻 `Embeddings`
+
+📈 
 
 **📝 Notebook**
 
@@ -173,9 +200,15 @@ https://github.com/onefact/datathinking.org-codespace/blob/main/notebooks/230313
 
 ## 🎭 March 16, 2023 lecture
 
-🧘 `Active Listening` `Motivational Interviewing` `Informed Consent` `Data Ethics`
+🧘 `Active Listening` `Motivational Interviewing` `Informed Consent` `Data Ethics` `Distress Tolerance`
 
-💻 `Embeddings` `Text Data` `Chat Logs` `Networks` 
+💬 `Debugging Prompts` `Prompt Debugging`
+
+💻 `Text Data` `Zulip Chat Data` `Networks` `Adding a Column-Separated Value (CSV) Data File to a GitHub Repository`
+
+💄 `Embeddings`
+
+📈
 
 **📝 Notebook**
 
@@ -189,8 +222,188 @@ https://github.com/onefact/datathinking.org-codespace/blob/main/notebooks/230316
   title="Tasks" 
 /%}
 
-## 🎭 March 27, 2023 lecture
+## 🎭 March 20, 2023 **Guest Lecture**
+
+Guest lecture: Ismael Ghalimi, [🐦 Twitter](https://twitter.com/ghalimi), [🌐 Website](https://stoic.com/), [🔗 LinkedIn](https://www.linkedin.com/in/ghalimi/)
+
+🧘 `Data Types` `Storytelling` `Visual Storytelling`
+
+📈 `Bar Charts` `Line Charts` `Histograms`
+
+## 🎭 March 23, 2023 **Guest Lecture**
+
+Guest lecture: Ismael Ghalimi, [🐦 Twitter](https://twitter.com/kulnor), [🌐 Website](https://www.mtna.us/about.html), [🔗 LinkedIn](https://www.linkedin.com/in/pascal/)
+
+🧘 `Storytelling` `Closure` `Low- and Middle-Income Countries` ``
+
+💻 `Metadata` `Survey Data` `World Bank Data`
+
+## 🎭 March 27, 2023 Lecture
+
+🧘 `Noticing Inertia in Tackling a Question` `Opportunity in Chaos` 
+
+📈 `Visualizing Timeseries`
 
 **📓 Notebook**
 
 **📝 Whiteboard**
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FRotJJKyYoAJdToQb43OUy2%2F230327-principles%3Ft%3Do6HpUZRVsWSHkeHP-1"
+  width="80%"
+  title="Tasks" 
+/%}
+
+## 🎭 March 30, 2023 lecture
+
+🧘 `If You Never Get Stuck, You Never Learn` `Self-Monitoring` `Irreverence` `Feel, Ask, Do, Think` `Fear, Worry, Difficulty and Struggle in Learning`
+
+💬 `Copy and Pasting Homework Instructions` 
+
+💻 `Debugging Tools and Heuristics` `Pair Programming Homework Solutions`
+
+💄 `Linear Regression` `Logistic Regression` `t-distribution Stochastic Neighbor Embedding` `Embeddings`
+
+📈 `Dimensionality Reduction` `Scatter Plots`
+
+**📓 Notebook**
+
+**📝 Whiteboard**
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmBl0VEjcEqTbtS5lBAYE3i%2F230330-homework-chat-log-analysis-and-self-monitoring-principles%3Ft%3Do6HpUZRVsWSHkeHP-1"
+  width="80%"
+  title="Tasks" 
+/%}
+
+## 🎭 April 3, 2023 lecture
+
+🧘 `Homework Retrospective` `Self-Gaslighting` `Verbal Events are Relational Operants` `Conditioning Behavior Using Stimulus-Response-Stimulus Tuples` `Vulnerability` `Static Analysis of Implicit Meanings of Words`
+
+💬 `Distilling Open-Ended Responses to Qualitative Questions`
+
+💽 + 🤔 `Defining Data Thinking`
+
+**📓 Notebook**
+
+**📝 Whiteboard**
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FHZmhf20kKr8lC9dPJz56Ri%2F230403-teaching-philosoph-course-review-defining-data-and-thinking-and-self-gaslighting%3Ft%3Do6HpUZRVsWSHkeHP-1"
+  width="80%"
+  title="Tasks" 
+/%}
+
+## 🎭 April 6, 2023 lecture
+
+💽 + 🤔 `Research Questions` `Recursive Research Workflow` `
+
+🧘 `Curiosity` `Inquiry`
+
+💻 `duckdb` `SQL` `Data Build Tool` `Data Modeling` `Reference Management with Zotero`
+
+📖 `Literature Review` 
+
+🧐💰 `Citation is the Currency of Knowledge and Information`
+
+📈 
+
+**📓 Notebook**
+
+**📝 Whiteboard**
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFbAiiZcAcjC9PWO8t6Xfsn%2F230406-research-questions-and-data-models-with-data-build-tool-and-duckdb-for-sql-databases%3Ft%3Do6HpUZRVsWSHkeHP-1"
+  width="80%"
+  title="Tasks" 
+/%}
+
+## 🎭 April 10, 2023 lecture
+
+💽 + 🤔 `Collaborative Creation` `Feel, Ask, Think, Do!` 
+
+🧘 `Active Listening to Learners: Deciding to Get GPT-4 Access`
+
+📖 `Pitchbook and CB Insights for Venture Capital Deal Flow Data` 
+
+🧐💰 `Venture Capital Landscape` `Incentives for Hyping Large Language Models` `Conflicts of Interest` `Effective Altruism` `Artificial Intelligence Safety`
+
+📈 
+
+**📓 Notebook**
+
+**📝 Whiteboard**
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fp5xd2SyGeck0qzYgU8N3ef%2F230410-musings-and-data-build-tool-for-zulip-chat-data%3Ft%3Do6HpUZRVsWSHkeHP-1"
+  width="80%"
+  title="Tasks"
+/%}
+
+## 🎭 April 13, 2023 lecture
+
+💽 + 🤔 `Systems Thinking` `
+
+📖 `Pitchbook and CB Insights for Venture Capital Deal Flow Data` 
+
+🧐💰 `Venture Capital Landscape` `Incentives for Hyping Large Language Models` `Conflicts of Interest` `Effective Altruism` `Artificial Intelligence Safety`
+
+**📓 Notebook**
+
+**📝 Whiteboard**
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FSkiXEP2Y7n6E59dwJVFBen%2F230413-GPT-4-access-duckdb-for-311-calls%3Ft%3Do6HpUZRVsWSHkeHP-1"
+  width="80%"
+  title="Tasks" 
+/%}
+
+## 🎭 April 17, 2023 lecture
+
+**📓 Notebook**
+
+**📝 Whiteboard**
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FgVnwfCRyuneGa2X6gfxcW3%2F230417-GPT-4-access-and-duckdb-check-in%3Ft%3Do6HpUZRVsWSHkeHP-1"
+  width="80%"
+  title="Tasks" 
+/%}
+
+## 🎭 April 20, 2023 lecture
+
+💽 + 🤔 `Separate Form From Content` `Separate Message From Messenger` `Red-Teaming`
+
+📖 `Pitchbook and CB Insights for Venture Capital Deal Flow Data` 
+
+🧐💰 `Venture Capital Landscape` `Incentives for Hyping Large Language Models` `Conflicts of Interest` `Effective Altruism` `Artificial Intelligence Safety`
+
+**📓 Notebook**
+
+**📝 Whiteboard**
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FSV4IExc2I43cFhRMVE0hMZ%2F230420-homework-design-redefinition-of-data-thinking-and-wayfinding-interfaces%3Ft%3Do6HpUZRVsWSHkeHP-1"
+  width="80%"
+  title="Tasks" 
+/%}
+
+## 🎭 April 24, 2023 lecture
+
+**📓 Notebook**
+
+**📝 Whiteboard**
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FoJ78Dbux79TdQIA74QZHaz%2F230424-feel-ask-do-think-retrospective%3Fnode-id%3D0%253A1%26t%3D29U6GtoJj2y7NAQK-1"
+  width="80%"
+  title="Tasks" 
+/%}
+
+
+
+
+
+
+
+
