@@ -12,6 +12,7 @@ assignees: ''
 ---
 
 # Reading
+Pro tip: try using an app on your phone or computer to read aloud to you at 1.5x speed! This can save time and make it easier to absorb information while not being tied down to a computer or device visually.
 - [ ] Review the bug report we submitted: https://github.com/duckdb/duckdb/issues/7015 and the fix to avoid the bug we ran into for analyzing Zulip data: https://github.com/onefact/datathinking.org-codespace/blob/main/notebooks/in-class-notebooks/230420-zulip-chat-duckdb-loading.ipynb
 - [ ] Review several editions of Style, Clarity and Grace (https://bookshop.org/p/books/style-lessons-in-clarity-and-grace-joseph-williams/8980182 - [Libgen](libgen.rs/search.php?req=style+clarity+grace))
 - [ ] [climate harms] Read https://arxiv.org/ftp/arxiv/papers/2104/2104.10350.pdf
@@ -30,6 +31,7 @@ assignees: ''
   - [ ] [High finance & geopolitics] https://www.theguardian.com/world/2016/jul/28/1mdb-inside-story-worlds-biggest-financial-scandal-malaysia
   - [ ] [High finance & geopolitics] https://www.bloomberg.com/news/articles/2014-08-21/mugabes-bailout-och-ziff-investment-linked-to-zimbabwe-despot#xj4y7vzkg?leadSource=uverify%20wall
   - [ ] [Predatory Investing] https://www.newyorker.com/magazine/2018/08/27/paul-singer-doomsday-investor
+  - [ ] [Global Geopolitics of AI] Chapter 1 - China's Sputnik Moment - and Chapter 4 - A Tale of Two Countries - of Kai-Fu Lee's AI Superpowers (https://bookshop.org/p/books/ai-superpowers-china-silicon-valley-and-the-new-world-order-kai-fu-lee/6960836 or [Libgen](http://libgen.rs/search.php?req=ai+superpowers))
 
 
 # Doing
