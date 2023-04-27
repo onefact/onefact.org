@@ -3,9 +3,7 @@ title: Humanity-Centered Data Thinking
 description: Using empathy, with design thinking as a model and metaphor, we enable clear understanding of how to work with data to make considered and impactful decisions. We automate teaching away using GPT-4 and other large language models.
 ---
 
-{% section .value-props %}
-
-![logo](/images/share.jpg)
+![logo](/images/share.png)
 
 **This pilot course focuses on the `feel`, `ask`, `do`, `think` workflow to guide practitioners of data thinking from data to decisions.**
 
@@ -195,6 +193,3 @@ https://github.com/onefact/datathinking.org-codespace/blob/main/notebooks/230316
 **📓 Notebook**
 
 **📝 Whiteboard**
-
-
-{% section %}
