@@ -64,6 +64,3 @@ Pro tip: try using an app on your phone or computer to read aloud to you at 1.5x
 - [ ] Try Copilot (https://github.com/features/copilot; free with GitHub Education Pack)
 - [ ] Try Bing Chat (https://bing.com/chat)
 - [ ] Try Huggingface Chat (hf.co/chat)
-
-
-
