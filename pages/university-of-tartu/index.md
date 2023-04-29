@@ -59,6 +59,20 @@ Based on open-ended elicitation of learner feedback, Claude (a large language mo
 
 Throughout the course, learners create, collect, analyze, visualize, and interpret their experiences and data, and learn state-of-the-art artificial intelligence methods to automate these processes. For example, `ChatGPT`, `GPT-4`, `Claude`, `Bing Chat`, and `Bard` are all used to help learners get unstuck faster than one instructors' limited resources are able to support.
 
+Testimonials from learners:
+
+Testimonials from the Data Thinking course I teach to cover my rent:
+
+_"And again, this has to be one of the best courses I took. Not only because of the subject, but the whole vibe is quite different for some reason, great work! :)"_ - continuing education learner in Estonia
+
+_"This is the most interesting class I have ever taken in 4 years. Thanks a lot, Jaan for making it engaging_ - learner in Estonia, Master's in Finance
+
+_“I had to take some time off. During that time, I also thought about the "it" factor of this course for me. The main reason is probably that it resembles more of the real world:_
+* _Things break._
+* _You get frustrated after some time._
+* _At the next moment, you feel complete joy because you solved the problem and found such a simple solution that it feels like it shouldn't even be possible._
+* _The things are not cleaned and prepped. Other courses give you the tidy data and the assignment with clear instructions on how to make it. In some cases, after completing the assignment, it feels like "What was the point of it all?" It almost feels like training the human to write the code like a computer but not taking into account all the errors that may come up on the way to the result or questioning the ways to improve the result or the certainty of it."_
+
 # 🌐 Course Webpage
 https://courses.cs.ut.ee/2023/chatGPT/spring 
 

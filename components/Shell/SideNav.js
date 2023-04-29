@@ -4,19 +4,13 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Introduction',
+    title: 'Institutions',
     links: [
-      { href: '/university-of-tartu', children: 'Home' },
-      { href: '/introduction', children: 'Introduction' },
-      { href: '/syllabus', children: 'Syllabus' },
-      { href: '/roadmap-to-chatgpt', children: 'Roadmap' }
-    ]
-  },
-  {
-    title: 'Technical Concpets',
-    links: [
-      { href: '/logistic-regression', children: 'Logistic Regression' },
-      { href: '/embeddings', children: 'Embeddings' }
+      { href: '/university-of-tartu', children: 'University of Tartu (Spring 2023)' },
+      { href: '/', children: 'University of Pennsylvania & Wharton (Fall 2023)' },
+      // { href: '/introduction', children: 'Introduction' },
+      // { href: '/syllabus', children: 'Syllabus' },
+      // { href: '/roadmap-to-chatgpt', children: 'Roadmap' }
     ]
   },
   // {
