@@ -414,6 +414,33 @@ Guest lecture: Ismael Ghalimi, [🐦 Twitter](https://twitter.com/kulnor), [🌐
   title="Tasks" 
 /%}
 
+## 🎭 April 27, 2023 lecture
+
+**📓 Notebook**
+
+**📝 Whiteboard**
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F9kaDAZdvo5X81pV9WsOI6c%2F230427-mathematics-probability-embeddings-choices%3Fnode-id%3D1%253A192%26t%3D13PMITzW2zSUtY3B-1"
+  width="80%"
+  title="Tasks"
+/%}
+
+## 🎭 May 1, 2023 lecture
+
+`Holiday in Estonia` :)
+
+## 🎭 May 4, 2023 lecture
+
+**📝 Whiteboard**
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6Rpz4huhTOZ6vVOWm6V5Zh%2F230504-mathematics-trade-offs-international-standards-fundamental-units-of-analysis-requirements%3Fnode-id%3D1%253A292%26t%3DaG2xJI0XKSz42Usq-1"
+  width="80%"
+  title="Tasks"
+/%}
+
+
 
 
 
