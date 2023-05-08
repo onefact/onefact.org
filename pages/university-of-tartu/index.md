@@ -445,13 +445,10 @@ Guest lecture: Ismael Ghalimi, [🐦 Twitter](https://twitter.com/kulnor), [🌐
 **📝 Whiteboard**
 
 {% figma
-  src="https%3A%2F%2Fwww.figma.com%2Ffile%2FEVAmE55uAvS3uWxSeLQ5ZB%2F230508-mathematics-and-embeddings%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3Dj6apKuAF9p2EA2EQ-1"
+  src="[https%3A%2F%2Fwww.figma.com%2Ffile%2FEVAmE55uAvS3uWxSeLQ5ZB%2F230508-mathematics-and-embeddings%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3Dj6apKuAF9p2EA2EQ-1](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEVAmE55uAvS3uWxSeLQ5ZB%2F230508-descriptivism-prescriptivism-usage-and-style-in-english-mathematics-programming%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3Dj6apKuAF9p2EA2EQ-1)"
   width="80%"
   title="Tasks"
 /%}
-
-
-
 
 
 
