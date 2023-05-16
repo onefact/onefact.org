@@ -246,11 +246,19 @@ Guest lecture: Ismael Ghalimi, [🐦 Twitter](https://twitter.com/ghalimi), [�
 
 ## 🎭 March 23, 2023 **Guest Lecture**
 
-Guest lecture: Ismael Ghalimi, [🐦 Twitter](https://twitter.com/kulnor), [🌐 Website](https://www.mtna.us/about.html), [🔗 LinkedIn](https://www.linkedin.com/in/pascal/)
+Guest lecture: Pascal Heus, [🐦 Twitter](https://twitter.com/kulnor), [🌐 Website](https://www.mtna.us/about.html), [🔗 LinkedIn](https://www.linkedin.com/in/pascal/)
 
 🧘 `Storytelling` `Closure` `Low- and Middle-Income Countries` ``
 
 💻 `Metadata` `Survey Data` `World Bank Data`
+
+Pascal writes: 
+
+> Here are a couple of things I would recommend:
+1. Take a high-level approach and look at the FAIRification process: https://www.go-fair.org/fair-principles/fairification-process/. Then take a dataset through that process.
+2. When you hit step 6 around capturing metadata, maybe dive a bit deeper and start with version 2 of the Data Documentation Initiative, which is essentially a rich data dictionary with extended information about the study. 
+The IHSN website has tools and documentation on that topic like  https://www.ihsn.org/projects/DDI-standard and http://ihsn.org/archiving
+4. To put this in practice, I would use this Guide for Data Archivists: https://guide-for-data-archivists.readthedocs.io/en/latest/. Use DDI 2 as your template. 
 
 ## 🎭 March 27, 2023 Lecture
 
