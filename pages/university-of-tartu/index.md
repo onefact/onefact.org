@@ -445,12 +445,24 @@ Guest lecture: Ismael Ghalimi, [🐦 Twitter](https://twitter.com/kulnor), [🌐
 **📝 Whiteboard**
 
 {% figma
-  src="[https%3A%2F%2Fwww.figma.com%2Ffile%2FEVAmE55uAvS3uWxSeLQ5ZB%2F230508-mathematics-and-embeddings%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3Dj6apKuAF9p2EA2EQ-1](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEVAmE55uAvS3uWxSeLQ5ZB%2F230508-descriptivism-prescriptivism-usage-and-style-in-english-mathematics-programming%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3Dj6apKuAF9p2EA2EQ-1)"
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEVAmE55uAvS3uWxSeLQ5ZB%2F230508-descriptivism-prescriptivism-usage-and-style-in-english-mathematics-programming%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3Dj6apKuAF9p2EA2EQ-1"
   width="80%"
   title="Tasks"
 /%}
 
+## 🎭 May 11, 2023 lecture
 
+Guest lecture: Stephan Zheng ([www.stephanzheng.com](www.stephanzheng.com)) is an AI researcher who has been developing the Al Economist, a multi-agent RL framework for economics. Most recently, he led a research team at Salesforce Research. Previously, he also worked on imitation learning, modeling cooperation, and robustness in deep learning and multi-agent games. His research has been published in leading machine learning conferences and scientific journals, including Science Advances, and has led to multiple patents. It has also been widely covered in US and international media, e.g., the Financial Times, MIT Tech Review, Forbes, Volkskrant, podcasts, and Dutch radio. He has served as an area chair for NeurIPS and ICML. Before machine learning, Stephan studied math and theoretical physics at Utrecht University, Harvard University, and the University of Cambridge, receiving the Lorenz graduation prize for his thesis on exotic dualities in topological string theory. He then switched to machine learning research during his PhD at Caltech. He is originally from the Netherlands.
+
+## 🎭 May 15, 2023 lecture
+
+**📝 Whiteboard**
+
+{% figma
+  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FGJD33RKLwMTOhSkl6GujwC%2F230515-discrete-continuous-functions-logistic-regression%3Ftype%3Dwhiteboard%26t%3D9ETSk6uUdIHY8M57-1"
+  width="80%"
+  title="Tasks"
+/%}
 
 
 
