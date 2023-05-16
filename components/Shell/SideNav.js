@@ -6,11 +6,8 @@ const items = [
   {
     title: 'Articles',
     links: [
-      { href: '/university-of-tartu', children: 'University of Tartu (Spring 2023)' },
-      { href: '/', children: 'University of Pennsylvania & Wharton (Fall 2023)' },
-      // { href: '/introduction', children: 'Introduction' },
-      // { href: '/syllabus', children: 'Syllabus' },
-      // { href: '/roadmap-to-chatgpt', children: 'Roadmap' }
+      { href: '/understanding-3-1-1-service-requests', children: 'Understanding New York City 3-1-1 calls' },
+      { href: '/second-example', children: 'Second example blog post in side navigation' },
     ]
   },
   // {
