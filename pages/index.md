@@ -1,31 +1,21 @@
 ---
-title: Human-centered Data Thinking 
-description: Using empathy, with design thinking as a model and metaphor, we enable clear understanding of how to work with data to make considered and impactful decisions.
+title: Blog
+description: You don't trust data, but you need data to make decisions. In this blog, we illustrate practical data thinking using real-world examples.
 ---
 
-{% section .hero %}
-
-{% typewriter /%}
-
-> Use Data Thinking as an approach to working with data in a human way that makes the tools and methods clear and useful. By taking a human-centered approach to data science we de-mystify the processes and cut through the jargon. Make data work for you. Tranform sets of data into useful and actionable information, which you can apply in the real world. 
-> 
-> Design thinking has transformed the way products and services are built, and influences many aspects of our lives. As artificial intelligence, analytics, and data become pervasive, data thinking is transforming how we make decisions, gather information about the world, and live our lives.
-
-{% /section %}
-
-{% section .value-props %}
+The pilot data thinking course at University of Tartu is concluding. The final project consists of a blog post that illustrates practical data thinking using real-world examples. The blog posts are listed below.
 
 {% table %}
 
 ---
 
-- {% ascii "key" /%}
+- [{% ascii "key" /%}](/understanding-3-1-1-service-requests)
 
   {% item %}
 
-  ### Safety {% .jumbo %}
+  ### [Understanding 3-1-1 calls in New York City](understanding-3-1-1-service-requests) {% .jumbo %}
 
-  Psychological safety of the learner is paramount. To undergo the greatest behavior change during learning, we need to feel safe to take risks and receive rapid feedback on the actions we take.
+  The data tells some of the story...
 
   {% /item %}
 
@@ -33,9 +23,9 @@ description: Using empathy, with design thinking as a model and metaphor, we ena
 
   {% item %}
 
-  ### Design {% .jumbo %}
+  ### Recent post 2 {% .jumbo %}
 
-  "Data thinking" is a pun on "design thinking'. Data thinking is a type of design mind-set.
+  Placeholder for recent post 2.
 
   {% /item %}
 
@@ -43,12 +33,10 @@ description: Using empathy, with design thinking as a model and metaphor, we ena
 
   {% item %}
 
-  ### Behavior Change {% .jumbo %}
+  ### Recent post 3 {% .jumbo %}
 
-  Data Thinking is a course we're building with our institutional partners to increase equity and access to artificial intelligence, machine learning, and data science education around the world.
+  Placeholder for recent post 3
 
   {% /item %}
 
 {% /table %}
-
-{% /section %}

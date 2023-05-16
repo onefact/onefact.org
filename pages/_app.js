@@ -21,8 +21,8 @@ import 'codemirror/lib/codemirror.css';
 
 import '../public/globals.css';
 
-const TITLE = 'One Fact';
-const DESCRIPTION = 'Our mission is to change global healthcare using open source principles.';
+const TITLE = 'Data Thinking';
+const DESCRIPTION = "You don't trust numbers, but you need numbers to make decisions. We teach you the data thinking skills to make this process suck less.";
 const MARKDOC = `
 
 
@@ -80,7 +80,7 @@ export default function MyApp(props) {
     ? collectHeadings(pageProps.markdoc.content)
     : [];
 
-  const isDocs = props.router.asPath.startsWith('/university-of-tartu') || props.router.asPath.startsWith('/about');
+  const isDocs = props.router.asPath.startsWith('/'); // || props.router.asPath.startsWith('/about');
   const isLandingPage = props.router.pathname === '/';
 
   React.useEffect(() => console.log(MARKDOC), []);

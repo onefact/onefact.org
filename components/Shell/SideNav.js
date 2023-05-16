@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Institutions',
+    title: 'Articles',
     links: [
       { href: '/university-of-tartu', children: 'University of Tartu (Spring 2023)' },
       { href: '/', children: 'University of Pennsylvania & Wharton (Fall 2023)' },
