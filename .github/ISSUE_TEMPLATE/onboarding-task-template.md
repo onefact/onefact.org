@@ -1,11 +1,13 @@
 ---
 name: Onboarding task template
 about: Try to complete this before the first class!
-title: "[🚢 🔭 ☄️ onboarding] tasks to get set up with class infrastructure and tools"
+title: "[\U0001F6A2 \U0001F52D ☄️ onboarding] tasks to get set up with class infrastructure
+  and tools"
 labels: onboarding
 assignees: ''
 
 ---
+
 - [ ] Create a GitHub account (you should already have one if you are about to check this box :)
 - [ ] Sign into ChatGPT: https://chat.openai.com/chat
 - [ ] Sign into Claude: https://console.anthropic.com/
