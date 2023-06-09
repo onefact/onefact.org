@@ -16,7 +16,7 @@ assignees: ''
 - [ ] If any of this reading is long, feel free to ask ChatGPT or Claude to summarize it for you: copy and paste the text and ask for a markdown table, or for extracting the main bullet points, or ask for the `tl;dr` (too long; didn't read in internet-speak). In fact, feel free to copy and paste this entire text and ask ChatGPT, Claude to make it a fun game for you every step of the way if you feel like.
 
 ## Read
-- [ ] How we schedule time matters, in order to do deep work: https://calnewport.com/text-file-time-blocking/ 
+- [ ] How we schedule time matters, in order to do deep work like understanding the core concepts in this bootcamp! It's tricky and attention and time management can help: https://calnewport.com/text-file-time-blocking/ 
 - [ ] Who gets to define what a word means? https://jsomers.net/blog/dictionary
 - [ ] What is a kernel according to one dude a hundred years ago? http://www.websters1913.com/words/Kernel
 - [ ] How we conceptualize confusion, stuckness, frustration matters, in addition to how we prescribe these labels to some of our experiences and people that surround us but not others: https://www.newyorker.com/magazine/2023/02/13/the-dubious-rise-of-impostor-syndrome
