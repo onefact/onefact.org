@@ -21,8 +21,8 @@ export function TopNav({ children }) {
         <div className="flex top-row">
           <Link href="/" className="flex">
     {/* OFF Logo here*/}
-          <svg title="onefact.org" width="200"
-        height="112" fill="none"
+          <svg title="onefact.org" width="198"
+        height="56" fill="none"
         enableBackground="new 0 0 1197.5 507.5" version="1.1" viewBox="0 0 1197.5 507.5" xmlns="http://www.w3.org/2000/svg">
         <polygon
           fillRule="evenodd"

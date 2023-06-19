@@ -19,14 +19,6 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- ![ben](/images/ben.jpg)
-- `Ben Guzovsky`
-- [ben@onefact.org](mailto:ben@onefact.org)
-- [Website](https://benguzovsky.com) [Twitter](https://twitter.com/benguzovsky) [LinkedIn](https://www.linkedin.com/in/benjamin-guzovsky/)
-- Chief Librarian
-
----
-
 - ![theresa](/images/theresa.jpg)
 - `Theresa Stockdale`
 - [theresa@onefact.org](mailto:theresa@onefact.org)
@@ -48,14 +40,6 @@ description: The One Fact Foundation team is on a mission to change global healt
 - [kakuyon@onefact.org](mailto:kakuyon@onefact.org)
 - [Linkedin](https://www.linkedin.com/in/kakuyonmataeh/)
 - Chief Cartographer
-
----
-
-- ![tim](/images/tim.jpg)
-- `Tim Harris`
-- [tim@onefact.org](mailto:tim@onefact.org)
-- [Website](http://timworks.net/) [Twitter](https://twitter.com/timworks) [LinkedIn](https://www.linkedin.com/in/timworks)
-- Chief Design Officer
 
 ---
 
@@ -134,7 +118,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 - `Swapneel Mehta`
 - [swapneel@onefact.org](mailto:swapneel@onefact.org)
 - [Website](https://mehtaver.se/) [Twitter](https://twitter.com/swapneel_mehta) [LinkedIn](https://www.linkedin.com/in/swapneelm/)  
-- Chief Arbiter
+- Technical Lead, Arbiter Report
 
 ---
 
@@ -146,11 +130,19 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- 
+- ![michele](/images/michele.jpg)
 - `Michele Tadiello`
 - [michele@onefact.org](mailto:michele@onefact.org)
 - [LinkedIn](https://www.linkedin.com/in/michele-tadiello/)  
 - Chief Digital Officer
+
+---
+
+- ![hope]
+- `Hope Sutherland`
+- [hope@onefact.org](mailto:hope@onefact.org)
+- [LinkedIn](https://www.linkedin.com/in/sopehutherland/)
+- Senior Analyst, Climate Data Auditor
 
 {% /table %}
 
@@ -204,17 +196,17 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- ![matt](/images/matt.jpg)
-- `Matt Davis`
-- [Website](https://sema4.com/our-story/leadership/) [LinkedIn](https://www.linkedin.com/in/matthew-davis-51233386/)
-- Chief Product & Technology Officer, Sema4
-
----
-
 - ![steve-hayes](/images/steve-hayes.jpg)
 - `Steve Hayes`
 - [Website](https://stevenchayes.com/) [Twitter](https://twitter.com/stevenchayes)
 - Professor, University of Nevada
+
+---
+
+- ![matt](/images/matt.jpg)
+- `Matt Davis`
+- [Website](https://sema4.com/our-story/leadership/) [LinkedIn](https://www.linkedin.com/in/matthew-davis-51233386/)
+- Chief Product & Technology Officer, Sema4
 
 ---
 
@@ -257,6 +249,12 @@ description: The One Fact Foundation team is on a mission to change global healt
 ## Alumni
 
 {% table %}
+
+---
+
+- ![ben](/images/ben.jpg)
+- `Ben Guzovsky`
+- [Website](https://benguzovsky.com) [Twitter](https://twitter.com/benguzovsky) [LinkedIn](https://www.linkedin.com/in/benjamin-guzovsky/)
 
 ---
 
@@ -306,6 +304,13 @@ description: The One Fact Foundation team is on a mission to change global healt
 - `Suzy Baek`
 - [LinkedIn](https://www.linkedin.com/in/susanna-baek-62772b215/)
 - Internship, Biomedical Research for Reproductive Health
+
+---
+
+- ![uche-aneni](/images/uche.jpg)
+- `Uche Aneni`
+- [Website](https://medicine.yale.edu/profile/uche-aneni/) [LinkedIn](https://www.linkedin.com/in/uanenimd/) [Twitter](https://twitter.com/uanenimd)
+- Professor, Yale School of Medicine
 
 {% /table %}
 

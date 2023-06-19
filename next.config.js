@@ -11,8 +11,13 @@ module.exports = withMarkdoc()({
     return [
       {
         source: '/handbook',
-        destination: 'https://handbook.onefact.org',
+        destination: 'https://help.onefact.org',
         permanent: true
+      },
+      {
+      source: "/powertothepatients",
+      destination: "https://www.amazon.com/photos/shared/3XUqnvVmR7q_gEyiN7aj1w.87DpHSxs5Zdh5B-V4t_Ou_?sort=sortOldestToNewest", 
+      permanent: true
       }
     ];
   },

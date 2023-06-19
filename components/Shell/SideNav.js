@@ -4,20 +4,31 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Vision',
+    title: 'Projects',
     links: [
-      { href: '/mission', children: 'What is our mission?' },
-      { href: '/docs/getting-started', children: 'Installation' },
-      { href: '/docs/faq', children: 'FAQ' },
-      { href: '/sandbox', children: 'Try it out' }
+      { href: 'https://help.payless.health/american-hospitals', children: 'Payless Health' },
+      { href: 'https://arxiv.org/abs/1904.05342', children: 'ClinicalBERT' },
+      { href: 'https://www.datathinking.org/university-of-tartu', children: 'Data Thinking' },
+      { href: 'https://childfx.com', children: 'ChildFx' },
     ]
   },
   {
-    title: 'Projects',
+    title: 'Riders',
     links: [
-      { href: '/projects/payless-health', children: 'Payless Health' },
-      { href: '/projects/clinicalbert', children: 'ClinicalBERT' },
-      { href: '/projects/data-thinking', children: 'Data Thinking' },
+      { href: '/five-boro-bike-tour/aaron', children: 'Aaron' },
+      { href: '/five-boro-bike-tour/alex', children: 'Alex' },
+      { href: '/five-boro-bike-tour/amy', children: 'Amy' },
+      { href: '/five-boro-bike-tour/andrew', children: 'Andrew' },
+      { href: '/five-boro-bike-tour/charlie', children: 'Charlie' },
+      { href: '/five-boro-bike-tour/elizabeth', children: 'Elizabeth' },
+      { href: '/five-boro-bike-tour/ellen', children: 'Ellen' },
+      { href: '/five-boro-bike-tour/evelyn', children: 'Evelyn' },
+      { href: '/five-boro-bike-tour/jaan', children: 'Jaan' },
+      { href: '/five-boro-bike-tour/kevin', children: 'Kevin' },
+      { href: '/five-boro-bike-tour/shelly', children: 'Shelly' },
+      { href: '/five-boro-bike-tour/swapneel', children: 'Swapneel' },
+      { href: '/five-boro-bike-tour/yili', children: 'Yili' },
+      { href: '/five-boro-bike-tour/zixiao', children: 'Zixiao' },
     ]
   },
 ];

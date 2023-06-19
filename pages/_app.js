@@ -80,7 +80,7 @@ export default function MyApp(props) {
     ? collectHeadings(pageProps.markdoc.content)
     : [];
 
-  const isDocs = props.router.asPath.startsWith('/projects') || props.router.asPath.startsWith('/about');
+  const isDocs = props.router.asPath.startsWith('/projects') || props.router.asPath.startsWith('/about') || props.router.asPath.startsWith('/five-boro-bike-tour');
   const isLandingPage = props.router.pathname === '/';
 
   React.useEffect(() => console.log(MARKDOC), []);
@@ -141,10 +141,11 @@ export default function MyApp(props) {
         Skip to content
       </a>
       <TopNav>
+        <Link href="https://help.onefact.org/">Help</Link>
         <Link href="/team">Team</Link>
         <Link href="https://github.com/onefact/">GitHub</Link>
         <Link href="https://onefact.zulipchat.com">
-          Community
+          Collective
         </Link>
         <Link href="https://twitter.com/onefact_org">Twitter</Link>
         <Link href="https://www.instagram.com/onefactfoundation/">Instagram</Link>
@@ -162,10 +163,10 @@ export default function MyApp(props) {
       </div>
       <div className="footer-bar">
         <Footer landing={isLandingPage}>
-          <Link href="https://handbook.onefact.org">Handbook</Link>
+          <Link href="https://help.onefact.org">Handbook</Link>
           <Link href="https://github.com/onefact">GitHub</Link>
           <Link href="https://onefact.zulipchat.com">
-            Community
+            Collective
           </Link>
           <Link href="https://twitter.com/onefact_org">Twitter</Link>
         </Footer>
