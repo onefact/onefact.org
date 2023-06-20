@@ -8,6 +8,7 @@ const items = [
     links: [
       { href: '/understanding-3-1-1-service-requests', children: 'Understanding New York City 3-1-1 calls' },
       { href: '/second-example', children: 'Second example blog post in side navigation' },
+      { href: '/impact-of-excessive-schoolwork-on-creative-abilities', children: 'Impacts of excessive schoolwork on creative abilites of students' },
     ]
   },
   // {
