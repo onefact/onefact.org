@@ -1,0 +1,54 @@
+{  
+   "responses": [  
+     {
+       "workload": "2",  
+       "pursue_interests": "2", 
+       "balance": "3", 
+       "impact": "4",  
+       "support": "2",  
+       "engagement": "1", 
+       "influence": "1",  
+       "satisfaction": "1" 
+     },  
+     {  
+       "workload": "4", 
+       "pursue_interests": "3",  
+       "balance": "3",  
+       "impact": "4", 
+       "support": "4",  
+       "engagement": "4", 
+       "influence": "3", 
+       "satisfaction": "3" 
+     },  
+     {
+       "workload": "4",
+       "pursue_interests": "1", 
+       "balance": "1",  
+       "impact": "5",  
+       "support": "1",  
+       "engagement": "1",  
+       "influence": "5",  
+       "satisfaction": "1" 
+     },  
+     {  
+       "workload": "5",  
+       "pursue_interests": "5",  
+       "balance": "5", 
+       "impact": "4",  
+       "support": "1", 
+       "engagement": "1",  
+       "influence": "3",  
+       "satisfaction": "2" 
+     },  
+     {
+       "workload": "4",  
+       "pursue_interests": "3", 
+       "balance": "3",  
+       "impact": "3", 
+       "support": "4",  
+       "engagement": "4",  
+       "influence": "3",  
+       "satisfaction": "4" 
+     }
+   ]
+}
