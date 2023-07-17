@@ -2,6 +2,7 @@ import React from 'react';
 // import { DocSearch } from '@docsearch/react';
 
 import { AppLink as Link } from '../AppLink';
+import { Logo } from '../Logo';
 
 // function Search() {
 //   return (
@@ -20,8 +21,13 @@ export function TopNav({ children }) {
       <nav>
         <div className="flex top-row">
           <Link href="/" className="flex">
-    {/* OFF Logo here*/}
-          <svg title="onefact.org" width="198"
+          {/* OFF Logo here  style="border:1px solid #d3d3d3;" */}
+          {/* <svg id="off-logo" width="100%" height="100%">  */}
+          <Logo scale={0.7} />
+          {/* </svg> */}
+          {/* {% Logo /%} */}
+          {/* Logo() */}
+          {/* <svg title="onefact.org" width="198"
         height="56" fill="none"
         enableBackground="new 0 0 1197.5 507.5" version="1.1" viewBox="0 0 1197.5 507.5" xmlns="http://www.w3.org/2000/svg">
         <polygon
@@ -132,7 +138,7 @@ export function TopNav({ children }) {
           d="m107.2 167.1h-5.5c-21.1 0-32.8 14.6-32.8 41v87c0 12.3 3.2 41 32.8 41h5.5c22.5 0 32.8-21.3 32.8-41v-88.2c-0.1-25.3-12-39.8-32.8-39.8zm8.1 126.5c0 9.9-4.1 15.8-10.9 15.8-3.3 0-10.9-1.5-10.9-15.8v-85.1c0-10.3 3.7-15.5 10.9-15.5s10.9 5.2 10.9 15.5v85.1z"
           fill="var(--dark)"
         />
-      </svg>
+      </svg> */}
           </Link>
           <button
             className="hamburger"
