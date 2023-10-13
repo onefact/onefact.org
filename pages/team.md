@@ -147,14 +147,6 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- ![hope](/images/hope.jpg)
-- `Hope Sutherland`
-- [hope@onefact.org](mailto:hope@onefact.org)
-- [LinkedIn](https://www.linkedin.com/in/sopehutherland/)
-- Climate Lead, Data Thinking
-
----
-
 - ![michael](/images/michael.jpg)
 - `Michael Snarski`
 - 
@@ -370,6 +362,14 @@ description: The One Fact Foundation team is on a mission to change global healt
 - `Uche Aneni`
 - [Website](https://medicine.yale.edu/profile/uche-aneni/) [LinkedIn](https://www.linkedin.com/in/uanenimd/) [Twitter](https://twitter.com/uanenimd)
 - Professor, Yale School of Medicine
+
+---
+
+- 
+- `Hope Sutherland`
+- [hope@onefact.org](mailto:hope@onefact.org)
+- [LinkedIn](https://www.linkedin.com/in/sopehutherland/)
+- Climate Lead, Data Thinking
 
 {% /table %}
 
