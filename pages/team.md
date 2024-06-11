@@ -35,14 +35,6 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- ![rachel](/images/rachel.jpg)
-- `Rachel Westlake`
-- [rachel@onefact.org](mailto:rachel@onefact.org)
-- [Website](https://cycadianhealth.com/) [LinkedIn](https://linkedin.com/in/rachelwestlakebpca)
-- Chief Advocate
-
----
-
 - 
 - `Rohan Bansal`
 - [rohan@onefact.org](mailto:rohan@onefact.org)
@@ -370,6 +362,15 @@ description: The One Fact Foundation team is on a mission to change global healt
 - `Uche Aneni`
 - [Website](https://medicine.yale.edu/profile/uche-aneni/) [LinkedIn](https://www.linkedin.com/in/uanenimd/) [Twitter](https://twitter.com/uanenimd)
 - Professor, Yale School of Medicine
+
+---
+
+---
+
+- ![rachel](/images/rachel.jpg)
+- `Rachel Westlake`
+- [Website](https://cycadianhealth.com/) [LinkedIn](https://linkedin.com/in/rachelwestlakebpca)
+- Ex-Chief Advocate
 
 {% /table %}
 
