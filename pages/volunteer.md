@@ -13,9 +13,9 @@ We are actively recruiting volunteers to help with Payless Health who have exper
 
 ## What we need help with
 
-* We need help **making visualizations and building dashboards** for hospitals in your area of the United States. Here is an example: [https://beta.payless.health/examples/mount-sinai.html](https://beta.payless.health/examples/mount-sinai.html). We have collected the hospital price sheets from 4,000+ hospitals [here](https://data.payless.health/#hospital_price_transparency/) so far, and we need help building dashboards for each hospital -- feel free to choose one in your city!
-* This can involve **writing python code**, such as this [Jupyter notebook](https://colab.research.google.com/github/onefact/data_build_tool_payless.health/blob/main/notebooks/230809-mount-sinai.ipynb) which shows how the price data was retrieved from the hospita's website and processed for the visualization.
-* This can also involve **writing frontend code** to visualize the tens of thousands to hundreds of thousands of prices at every hospital. (Code [here](https://github.com/onefact/beta.payless.health/blob/main/docs/examples/mount-sinai.md) for the demo page.)
+* We need help **making visualizations and building dashboards** for hospitals in your area of the United States. Here is an example: [https://www.payless.health/hospital/mount-sinai](https://www.payless.health/hospital/mount-sinai). We have collected the hospital price sheets from 4,000+ hospitals [here](https://data.payless.health/#hospital_price_transparency/) so far, and we need help building dashboards for each hospital -- feel free to choose one in your city!
+* This can involve **writing python code**, such as this [Jupyter notebook](https://colab.research.google.com/github/onefact/data_build_tool_payless.health/blob/main/notebooks/230809-mount-sinai.ipynb) which shows how the price data was retrieved from the hospital's website and processed for the visualization.
+* This can also involve **writing frontend code** to visualize the tens of thousands to hundreds of thousands of prices at every hospital. (Code [here](https://github.com/onefact/payless.health/blob/main/docs/hospital/mount-sinai.md) for the demo page.)
 * We also need help with **data engineering** using `dbt` (data build tool) to help process the data and make it available for the dashboards. (Code [here](https://colab.research.google.com/github/onefact/datathinking.org-codespace/blob/main/notebooks/princeton-university/week-1-visualizing-33-million-phone-calls-in-new-york-city.ipynb) with an example from our training that shows how to visualize over 100 million datapoints on your laptop!)
 
 Throughout, we use **large language models** such as ChatGPT and Anthropic's Claude, and have trained hundreds of students from a variety of backgrounds in state of the art practices in software engineering, analytics, and data science using this approach. The datasets we use are in the hundreds of gigabytes to petabytes of data, so this can **accelerate your career** and build your portfolio alongside having an impact. Contributors of ours frequently give talks at national and international conferences about our work, and collaborations can result in peer-reviewed publications if this may be of interest.
@@ -37,7 +37,7 @@ We are working with policymakers and journalists to help them understand the pri
 
 We have also run an advertising campaign in NYC using this data; here is an example ad on the LinkNYC booth system near Times Square and Penn Station: [https://www.onefact.org/images/five-boro-bike-tour/payless.health-linknyc-campaign.jpg](https://www.onefact.org/images/five-boro-bike-tour/payless.health-linknyc-campaign.jpg)
 
-Here is a screenshot of the example dashboard of hospital prices for a large hospital in NYC with $2bn in revenue -- this shows 106,000+ prices ([https://beta.payless.health/examples/mount-sinai.html](https://beta.payless.health/examples/mount-sinai.html)):
+Here is a screenshot of the example dashboard of hospital prices for a large hospital in NYC with $2bn in revenue -- this shows 106,000+ prices ([https://www.payless.health/hospital/mount-sinai](https://www.payless.health/hospital/mount-sinai)):
 
 ![Example dashboard](https://user-images.githubusercontent.com/5317244/262161840-0a506b94-8d21-435e-b834-dca0541ea157.png)
 
