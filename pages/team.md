@@ -365,13 +365,6 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
----
-
-- ![rachel](/images/rachel.jpg)
-- `Rachel Westlake`
-- [Website](https://cycadianhealth.com/) [LinkedIn](https://linkedin.com/in/rachelwestlakebpca)
-- Ex-Chief Advocate
-
 {% /table %}
 
 {% /section %}
